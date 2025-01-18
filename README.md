@@ -1,1 +1,1 @@
-# Machine-Learning-Models-Evaluation-
+In this project I have performed different machine leaning models on 3 different datasets to see which model performs better. 6 different models have been taken here. And compared calculation metrics so that I can get an overview of which model performs well. From this I get to know how a model’s performance can be improved. Such as, if there is any nonlinear relationship between data then which model need to be used.  
